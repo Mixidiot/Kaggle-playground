@@ -1,6 +1,6 @@
-# Linear regression for bike sharing project on Kaggle
+# Linear regression for bike sharing project on Kaggle - July 18
 # https://www.kaggle.com/c/bike-sharing-demand
-# My github for Bike share
+# My Github for Bike share
 # https://github.com/Mixidiot/Kaggle-playground/tree/master/Bike-Sharing-Demand 
 
 # 
